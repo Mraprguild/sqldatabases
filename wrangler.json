@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "sqldatabases",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "cca7fbcd-0f21-453d-b1a6-e49fee209a03",
+      "database_name": "Mraprguild"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
